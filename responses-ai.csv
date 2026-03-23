@@ -1,34 +1,34 @@
 RESPONSE,NUMBERS
-Misidentification,R1
-Servers go down,R2
-Out of scope data,R3
-Biased data,R4
-Privacy breach,R5
-Non-identification,R6
-Hacking,R7
-Adopted for nefarious reasons,R8
-Non-consenter infringement,R9
-Someone is joking,R10
-Someone is acting an emotion,R11
-Someone with allergies,R12
-Glasses,R13
-Masks,R14
-Racist algorithm,R15
-Used to traffic people,R16
-Used to traffic drugs,R17
-Used to transport illegal goods,R18
-Corruption of locative data,R19
-Internet goes down,R20
-Security certificate expires,R21
-Manufacturer can't meet demands,R22
-Bug in the code,R23
-Becomes sentient,R24
-Adversarial attacks,R25
-Datasets are biased,R26
-Personal data leaked,R27
-Automation fails,R28
-Cloud services go down,R29
-Hackers,R30
+Misidentification, TECH-R1
+Servers go down,TECH-R2
+Out of scope data,TECH-R3
+Biased data,TECH-R4
+Privacy breach,TECH-R5
+Non-identification,TECH-R6
+Hacking,TECH-R7
+Adopted for nefarious reasons,SOCIAL-R8
+Non-consenter infringement,LEGAL-R9
+Someone is joking,USER-R10
+Someone is acting an emotion,USER-R11
+Someone with allergies,USER-R12
+Glasses,USER-R13
+Masks,USER-R14
+Racist algorithm,SOCIAL-R15
+Used to traffic people,LEGAL-R16
+Used to traffic drugs,LEGAL-R17
+Used to transport illegal goods,LEGAL-R18
+Corruption of locative data,TECH-R19
+Internet goes down,TECH-R20
+Security certificate expires,TECH-R21
+Manufacturer can't meet demands,TECH-R22
+Bug in the code,TECH-R23
+Becomes sentient,TECH-R24
+Adversarial attacks,TECH-R25
+Datasets are biased,TECH-R26
+Personal data leaked,TECH-R27
+Automation fails,TECH-R28
+Cloud services go down,TECH-R29
+Hackers,TECH-R30
 Taking the wrong route,R31
 Asks too many questions,R32
 Functions too fast for humans,R33
