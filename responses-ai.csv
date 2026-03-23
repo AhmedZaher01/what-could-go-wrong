@@ -29,72 +29,72 @@ Personal data leaked,TECH-R27
 Automation fails,TECH-R28
 Cloud services go down,TECH-R29
 Hackers,TECH-R30
-Taking the wrong route,R31
-Asks too many questions,R32
-Functions too fast for humans,R33
-Does not respond to instructions,R34
-All systems just stop running one day,R35
-Random crashes,R36
-Mad dogs,R37
-Locusts,R38
-Infested by ants,R39
-Bodily Harm,R40
-Rejected for service,R41
-People reject the product or service,R42
-Increased prejudice,R43
-Enhances systematic bias,R44
-Reduces economic access,R45
-Reduces social interaction,R46
-Prevents social access,R47
-People lose jobs,R48
-Embarrasses user,R49
-It accelerates climate change,R50
-Contaminates fresh water,R51
-Eradicates a species,R52
-Impairs living objects,R53
-Causes a resurgence of coal fired power,R54
-Increases greenhouse emissions,R55
-Endless legal proceedings,R56
-Regulations change,R57
-Creates a monopoly,R58
-Becomes completely unregulated,R59
-Foreign intervention,R60
-Continues the inequalities of capitalism,R61
-Promotes race division,R62
-Promotes armed revolution,R63
-Tragedy of the commons,R64
-Causes a pandemic,R65
-people are addicted to it,R66
-Market meltdown,R67
-People stop believing in science,R68
-Used by a repressive regime,R69
-Problematic power structures,R70
-People are silenced,R71
-Increases migration,R72
-Increase living density,R73
-Reduces living density,R74
-Limits people's movement,R75
-Blind user,R76
-Sick user,R77
-Wheelchair user,R78
-Deaf user,R79
-LGBTQIA+ user,R80
-Child user,R81
-Teen user,R82
-Elderly user,R83
-Thieves,R84
-Corrupt politicians,R85
-Introverts,R86
-Group of teens,R87
-Drunk user,R88
-High user,R89
-Schizophrenic user,R90
-Non-english speakers,R91
-Homeless user,R92
-Cognitively disabled user,R93
-Corrupt police,R94
-Used by children,R95
-Transgender user,R96
-Used by non-expert,R97
-Unionized labor,R98
-Immigrants,R99
+Taking the wrong route,TECH-R31
+Asks too many questions,USER-R32
+Functions too fast for humans,TECH-R33
+Does not respond to instructions,TECH-R34
+All systems just stop running one day,TECH-R35
+Random crashes,TECH-R36
+Mad dogs,ENV-R37
+Locusts,ENV-R38
+Infested by ants,ENV-R39
+Bodily Harm,LEGAL-R40
+Rejected for service,SOCIAL-R41
+People reject the product or service,SOCIAL-R42
+Increased prejudice,SOCIAL-R43
+Enhances systematic bias,SOCIAL-R44
+Reduces economic access,SOCIAL-R45
+Reduces social interaction,SOCIAL-R46
+Prevents social access,SOCIAL-R47
+People lose jobs,SOCIAL-R48
+Embarrasses user,USER-R49
+It accelerates climate change,ENV-R50
+Contaminates fresh water,ENV-R51
+Eradicates a species,ENV-R52
+Impairs living objects,ENV-R53
+Causes a resurgence of coal fired power,ENV-R54
+Increases greenhouse emissions,ENV-R55
+Endless legal proceedings,LEGAL-R56
+Regulations change,LEGAL-R57
+Creates a monopoly,SOCIAL-R58
+Becomes completely unregulated,LEGAL-R59
+Foreign intervention,LEGAL-R60
+Continues the inequalities of capitalism,SOCIAL-R61
+Promotes race division,SOCIAL-R62
+Promotes armed revolution,SOCIAL-R63
+Tragedy of the commons,SOCIAL-R64
+Causes a pandemic,ENV-R65
+people are addicted to it,USER-R66
+Market meltdown,SOCIAL-R67
+People stop believing in science,SOCIAL-R68
+Used by a repressive regime,LEGAL-R69
+Problematic power structures,SOCIAL-R70
+People are silenced,SOCIAL-R71
+Increases migration,SOCIAL-R72
+Increase living density,SOCIAL-R73
+Reduces living density,SOCIAL-R74
+Limits people's movement,LEGAL-R75
+Blind user,USER-R76
+Sick user,USER-R77
+Wheelchair user,USER-R78
+Deaf user,USER-R79
+LGBTQIA+ user,USER-R80
+Child user,USER-R81
+Teen user,USER-R82
+Elderly user,USER-R83
+Thieves,LEGAL-R84
+Corrupt politicians,LEGAL-R85
+Introverts,USER-R86
+Group of teens,USER-R87
+Drunk user,USER-R88
+High user,USER-R89
+Schizophrenic user,USER-R90
+Non-english speakers,USER-R91
+Homeless user,USER-R92
+Cognitively disabled user,USER-R93
+Corrupt police,LEGAL-R94
+Used by children,USER-R95
+Transgender user,USER-R96
+Used by non-expert,USER-R97
+Unionized labor,SOCIAL-R98
+Immigrants,SOCIAL-R99
