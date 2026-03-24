@@ -1,130 +1,130 @@
 RESPONSE,NUMBERS
-Misidentification,R1
-Servers go down,R2
-Out of scope data,R3
-Biased data,R4
-Privacy breach,R5
-Non-identification,R6
-Hacking,R7
-Adopted for nefarious reasons,R8
-Non-consenter infringement,R9
-Someone is joking,R10
-Someone is acting an emotion,R11
-Someone with allergies,R12
-Glasses,R13
-Masks,R14
-Racist algorithm,R15
-Used to traffic people,R16
-Used to traffic drugs,R17
-Used to transport illegal goods,R18
-Corruption of locative data,R19
-Internet goes down,R20
-Security certificate expires,R21
-Manufacturer can't meet demands,R22
-Bug in the code,R23
-Becomes sentient,R24
-Adversarial attacks,R25
-Datasets are biased,R26
-Personal data leaked,R27
-Automation fails,R28
-Cloud services go down,R29
-Hackers,R30
-Taking the wrong route,R31
-Asks too many questions,R32
-Functions too fast for humans,R33
-Does not respond to instructions,R34
-All systems just stop running one day,R35
-Random crashes,R36
-Mad dogs,R37
-Locusts,R38
-Infested by ants,R39
-Bodily Harm,R40
-Rejected for service,R41
-People reject the product or service,R42
-Increased prejudice,R43
-Enhances systematic bias,R44
-Reduces economic access,R45
-Reduces social interaction,R46
-Prevents social access,R47
-People lose jobs,R48
-Embarrasses user,R49
-It accelerates climate change,R50
-Contaminates fresh water,R51
-Eradicates a species,R52
-Impairs living objects,R53
-Causes a resurgence of coal fired power,R54
-Increases greenhouse emissions,R55
-Endless legal proceedings,R56
-Regulations change,R57
-Creates a monopoly,R58
-Becomes completely unregulated,R59
-Foreign intervention,R60
-Continues the inequalities of capitalism,R61
-Promotes race division,R62
-Promotes armed revolution,R63
-Tragedy of the commons,R64
-Causes a pandemic,R65
-people are addicted to it,R66
-Market meltdown,R67
-People stop believing in science,R68
-Used by a repressive regime,R69
-Problematic power structures,R70
-People are silenced,R71
-Increases migration,R72
-Increase living density,R73
-Reduces living density,R74
-Limits people's movement,R75
-Blind user,R76
-Sick user,R77
-Wheelchair user,R78
-Deaf user,R79
-LGBTQIA+ user,R80
-Child user,R81
-Teen user,R82
-Elderly user,R83
-Thieves,R84
-Corrupt politicians,R85
-Introverts,R86
-Group of teens,R87
-Drunk user,R88
-High user,R89
-Schizophrenic user,R90
-Non-english speakers,R91
-Homeless user,R92
-Cognitively disabled user,R93
-Corrupt police,R94
-Used by children,R95
-Transgender user,R96
-Used by non-expert,R97
-Unionized labor,R98
-Immigrants,R99
-Lack of transparency,R100
-No accountability,R101
-Over-reliance on automation,R102
-Loss of human skills,R103
-False positives,R104
-False negatives,R105
-System manipulation by users,R106
-Data poisoning,R107
-Model hallucination,R108
-Unintended consequences,R109
-Ethical misuse,R110
-Loss of trust,R111
-Surveillance abuse,R112
-Function creep,R113
-Misuse of sensitive data,R114
-Discrimination against minorities,R115
-Reinforces stereotypes,R116
-Emotional distress,R117
-Mental health deterioration,R118
-Social isolation increases,R119
-Dependency on system,R120
-Loss of autonomy,R121
-Unfair decision making,R122
-Hidden bias,R123
-Unclear decision logic,R124
-Delayed response in critical situations,R125
-System overload,R126
-Incompatible with existing systems,R127
-Unexpected system interactions,R128
-High maintenance costs,R129
+Misidentification, TECH-R1
+Servers go down,TECH-R2
+Out of scope data,TECH-R3
+Biased data,TECH-R4
+Privacy breach,TECH-R5
+Non-identification,TECH-R6
+Hacking,TECH-R7
+Adopted for nefarious reasons,SOCIAL-R8
+Non-consenter infringement,LEGAL-R9
+Someone is joking,USER-R10
+Someone is acting an emotion,USER-R11
+Someone with allergies,USER-R12
+Glasses,USER-R13
+Masks,USER-R14
+Racist algorithm,SOCIAL-R15
+Used to traffic people,LEGAL-R16
+Used to traffic drugs,LEGAL-R17
+Used to transport illegal goods,LEGAL-R18
+Corruption of locative data,TECH-R19
+Internet goes down,TECH-R20
+Security certificate expires,TECH-R21
+Manufacturer can't meet demands,TECH-R22
+Bug in the code,TECH-R23
+Becomes sentient,TECH-R24
+Adversarial attacks,TECH-R25
+Datasets are biased,TECH-R26
+Personal data leaked,TECH-R27
+Automation fails,TECH-R28
+Cloud services go down,TECH-R29
+Hackers,TECH-R30
+Taking the wrong route,TECH-R31
+Asks too many questions,USER-R32
+Functions too fast for humans,TECH-R33
+Does not respond to instructions,TECH-R34
+All systems just stop running one day,TECH-R35
+Random crashes,TECH-R36
+Mad dogs,ENV-R37
+Locusts,ENV-R38
+Infested by ants,ENV-R39
+Bodily Harm,LEGAL-R40
+Rejected for service,SOCIAL-R41
+People reject the product or service,SOCIAL-R42
+Increased prejudice,SOCIAL-R43
+Enhances systematic bias,SOCIAL-R44
+Reduces economic access,SOCIAL-R45
+Reduces social interaction,SOCIAL-R46
+Prevents social access,SOCIAL-R47
+People lose jobs,SOCIAL-R48
+Embarrasses user,USER-R49
+It accelerates climate change,ENV-R50
+Contaminates fresh water,ENV-R51
+Eradicates a species,ENV-R52
+Impairs living objects,ENV-R53
+Causes a resurgence of coal fired power,ENV-R54
+Increases greenhouse emissions,ENV-R55
+Endless legal proceedings,LEGAL-R56
+Regulations change,LEGAL-R57
+Creates a monopoly,SOCIAL-R58
+Becomes completely unregulated,LEGAL-R59
+Foreign intervention,LEGAL-R60
+Continues the inequalities of capitalism,SOCIAL-R61
+Promotes race division,SOCIAL-R62
+Promotes armed revolution,SOCIAL-R63
+Tragedy of the commons,SOCIAL-R64
+Causes a pandemic,ENV-R65
+people are addicted to it,USER-R66
+Market meltdown,SOCIAL-R67
+People stop believing in science,SOCIAL-R68
+Used by a repressive regime,LEGAL-R69
+Problematic power structures,SOCIAL-R70
+People are silenced,SOCIAL-R71
+Increases migration,SOCIAL-R72
+Increase living density,SOCIAL-R73
+Reduces living density,SOCIAL-R74
+Limits people's movement,LEGAL-R75
+Blind user,USER-R76
+Sick user,USER-R77
+Wheelchair user,USER-R78
+Deaf user,USER-R79
+LGBTQIA+ user,USER-R80
+Child user,USER-R81
+Teen user,USER-R82
+Elderly user,USER-R83
+Thieves,LEGAL-R84
+Corrupt politicians,LEGAL-R85
+Introverts,USER-R86
+Group of teens,USER-R87
+Drunk user,USER-R88
+High user,USER-R89
+Schizophrenic user,USER-R90
+Non-english speakers,USER-R91
+Homeless user,USER-R92
+Cognitively disabled user,USER-R93
+Corrupt police,LEGAL-R94
+Used by children,USER-R95
+Transgender user,USER-R96
+Used by non-expert,USER-R97
+Unionized labor,SOCIAL-R98
+Immigrants,SOCIAL-R99
+Lack of transparency,SOCIAL-R100
+No accountability,LEGAL-R101
+Over-reliance on automation,TECH-R102
+Loss of human skills,SOCIAL-R103
+False positives,TECH-R104
+False negatives,TECH-R105
+System manipulation by users,USER-R106
+Data poisoning,TECH-R107
+Model hallucination,TECH-R108
+Unintended consequences,SOCIAL-R109
+Ethical misuse,LEGAL-R110
+Loss of trust,SOCIAL-R111
+Surveillance abuse,LEGAL-R112
+Function creep,SOCIAL-R113
+Misuse of sensitive data,LEGAL-R114
+Discrimination against minorities,SOCIAL-R115
+Reinforces stereotypes,SOCIAL-R116
+Emotional distress,USER-R117
+Mental health deterioration,USER-R118
+Social isolation increases,SOCIAL-R119
+Dependency on system,USER-R120
+Loss of autonomy,USER-R121
+Unfair decision making,SOCIAL-R122
+Hidden bias,SOCIAL-R123
+Unclear decision logic,TECH-R124
+Delayed response in critical situations,TECH-R125
+System overload,TECH-R126
+Incompatible with existing systems,TECH-R127
+Unexpected system interactions,TECH-R128
+High maintenance costs,SOCIAL-R129
