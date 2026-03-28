@@ -1,11 +1,11 @@
 RESPONSE,NUMBERS
-Misidentification, TECH-R1
-Servers go down,TECH-R2
+Misidentification of individuals, TECH-R1
+Server infrastructure failure,TECH-R2
 Out of scope data,TECH-R3
 Biased data,TECH-R4
 Privacy breach,TECH-R5
 Non-identification,TECH-R6
-Hacking,TECH-R7
+Cybersecurity breach,TECH-R7
 Adopted for nefarious reasons,SOCIAL-R8
 Non-consenter infringement,LEGAL-R9
 Someone is joking,USER-R10
