@@ -85,4 +85,13 @@ For some motivation on why we want to develop new hazard analysis games.
 }
 ```
 
+## 📋 Contributions récentes (mars 2026)
+
+**baha2604 (@baha2604)** :
+- Issues #5/#6 créées
+- 5 nouveaux prompts P77-P81 ajoutés (thème communautés en ligne)
+- CSV vérifiés, workflow Git complet
+
+**Status projet** : Prêt pour test PlayingCards.io 
+
 
